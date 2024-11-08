@@ -24,6 +24,7 @@ namespace CommandLineApp
                 else
                 {
                     input = args[i];
+		    break;
                 }
             }
 
