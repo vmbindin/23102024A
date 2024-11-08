@@ -2,12 +2,12 @@
 
 ## restore
 
-``>dotnet restore
+`dotnet restore`
 
 ## build
 
-``dotnet build
+`dotnet build`
 
 ## run
 
-``>dotnet run -- -option red
+`dotnet run -- -option red`
