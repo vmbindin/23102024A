@@ -5,6 +5,8 @@
     <TargetFramework>net9.0</TargetFramework>
     <AssemblyName>ProgramO</AssemblyName> <!-- change name for .exe .json -->
     <TargetName>ProgramO</TargetName> <!-- change name for .dll .pdb -->
+    <DebugType>None</DebugType> <!-- remove .pdb file -->
+    <DebugSymbols>False</DebugSymbols> <!-- remove .pdb file -->
     <PublishSingleFile>true</PublishSingleFile>
     <PublishTrimmed>true</PublishTrimmed>
     <RootNamespace>_23102024A</RootNamespace>
